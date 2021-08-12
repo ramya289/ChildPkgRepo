@@ -5,7 +5,12 @@
             "default": true,
             "package": "Ramya Test Core1",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionNumber": "0.1.0.NEXT",
+            "dependencies": [
+                {
+                    "package": "Ramya Test Core@0.1.0-4"
+                }
+            ]
         }
     ],
     "name": "ChildPkgRepo",
@@ -13,6 +18,8 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "Ramya Test Core1": "0Ho5g000000blczCAA"
+        "Ramya Test Core1": "0Ho5g000000blczCAA",
+        "Ramya Test Core@0.1.0-4": "04t5g000000lIbRAAU",
+        "Ramya Test Core1@0.1.0-1": "04t5g000000lIfeAAE"
     }
 }
