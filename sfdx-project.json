@@ -8,7 +8,7 @@
             "versionNumber": "0.1.0.NEXT",
             "dependencies": [
                 {
-                    "package": "Ramya Test Core@0.1.0-4"
+                    "package": "Ramya Test Core@0.2.0-1"
                 }
             ]
         }
@@ -20,6 +20,9 @@
     "packageAliases": {
         "Ramya Test Core1": "0Ho5g000000blczCAA",
         "Ramya Test Core@0.1.0-4": "04t5g000000lIbRAAU",
-        "Ramya Test Core1@0.1.0-1": "04t5g000000lIfeAAE"
+        "Ramya Test Core@0.2.0-1": "04t5g000000lMJyAAM",
+        "Ramya Test Core1@0.1.0-1": "04t5g000000lIfeAAE",
+        "Ramya Test Core1@0.1.0-2": "04t5g000000lMSiAAM",
+        "Ramya Test Core1@0.1.0-3": "04t5g000000lMSsAAM"
     }
 }

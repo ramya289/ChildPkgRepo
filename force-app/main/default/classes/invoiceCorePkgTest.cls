@@ -5,5 +5,6 @@ private without sharing class invoiceCorePkgTest {
         Contact con = new Contact(LastName = 'Ramya P');
         insert con;
         Contact con1 = invokeCorePackage.getContactFromCorePkg();
+        invokeCorePackage.authorize();
     }
 }
